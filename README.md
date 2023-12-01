@@ -1,8 +1,12 @@
 # TCC
 Avaliação de desempenho de Large Language Models (LLMs) abertos na tarefa de Análise de Sentimentos
 
-Aluno: Henrique Martins Fernandes
-Professor Orientador: Dr. Ricardo Marcacini
+Aluno: 
+- Henrique Martins Fernandes
+  
+Professor Orientador:
+- Dr. Ricardo Marcacini
+  
 ICMC-USP
 
 ## Como executar os códigos
